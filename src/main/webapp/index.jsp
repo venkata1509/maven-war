@@ -6,7 +6,7 @@ HTML | <font> color Attribute
 </head>
 <body>
  <font size="6"
-color="rgb(128, 128, 0)">
+color="rgb(128, 128, 128)">
 Test-Colour
 </font>
 </body
