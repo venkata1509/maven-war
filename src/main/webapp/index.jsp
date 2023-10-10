@@ -7,7 +7,7 @@ HTML | <font> color Attribute
 <body>
  <font size="6"
 color="rgb(128, 128, 128)">
-Background-change
+Background-changes
 </font>
 </body
 </html>
