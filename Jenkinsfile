@@ -10,7 +10,7 @@ node () {
 	stage('Static Code Analysis') {
                 // Execute static code analysis using SonarQube scanner
                 withSonarQubeEnv('SonarQube Server') {
-                    sh 'mvn sonar:sonar'
+                    bat 'mvn sonar:sonar'
                 
             }
         }
